@@ -19,6 +19,7 @@ int main()
             {
               b[j]='1'; 
               s++;
+                break;
             }
         }
     }
